@@ -1,0 +1,14 @@
+{
+  "name": "prd-base-tools",
+  "version": "0.0.1",
+  "type": "module",
+  "exports": {
+    ".": "./index.ts"
+  },
+  "dependencies": {
+    "@opencode-ai/plugin": "^1.2.15"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.9"
+  }
+}
